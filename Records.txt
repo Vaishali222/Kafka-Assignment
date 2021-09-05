@@ -1,0 +1,13 @@
+
+{
+  "id" : 1,
+  "name" : "Vaishali",
+  "course" : "MCA",
+  "age" : 24
+}
+{
+  "id" : 2,
+  "name" : "Ayesha",
+  "course" : "MCA",
+  "age" : 24
+}
